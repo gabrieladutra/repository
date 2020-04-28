@@ -44,3 +44,11 @@ Version Control
 To add local repository in a remote master 
 `git push -u origin master`
 **Pay attetion: This command will put everytrhing on a remote repository**
+
+
+echo "# repository" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/gabrieladutra/repository.git
+git push -u origin master
