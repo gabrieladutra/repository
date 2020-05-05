@@ -58,6 +58,10 @@ ag - silverseacher
 `ln -s originfile destinationfile` `ln -s a.txt b.txt`
 > the same comand for directories
 
+<grep> Filter text
+<tail> File final line
+
+    
 ### Main Directories ###
 
 /root : root's Home
