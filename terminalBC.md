@@ -61,16 +61,30 @@ ag - silverseacher
 <grep> Filter text
 <tail> File final line
 
-    
+
 ### Main Directories ###
 
 /root : root's Home
+
+
 /var :  variable data  -> pids (process Id)
+
+
 /proc : process
+
+
 /tmp : temporary 
+
+
 /boot : *vmlixux... (lixux Kernel -> SO,drivers -> First to init) (inittdr.... Ram disk Second to init)*
 > Slink  shortcut -> vmlixux and inittdr has a slink on /
+
+
 /opt : outside programs 
+
 /sbin : system binaries (so) 
+
 /bin : system binaries **bash, mkdir, echo , ping , su**
+
+
 /usr : Unix System Resources -> user applications 

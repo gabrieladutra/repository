@@ -26,6 +26,9 @@ Version Control
 -To show the commit timeline 
 `git log`
 
+-To get changes in remote repository
+`git pull`
+
 -To create a new branch 
 `git branch branchName`
 **Does not work with empty repository**
