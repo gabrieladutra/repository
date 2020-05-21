@@ -25,11 +25,11 @@ public class Product {
     }
 
     public void setName(String newName) {
-        this.name = newName;
+        name = newName;
     }
 
     public void setPrice(Double newPrice) {
-        this.price = newPrice;
+        price = newPrice;
     }
 
     @Override
